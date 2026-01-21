@@ -19,3 +19,8 @@ Este proyecto es un **programa de consola en Python** desarrollado como parte de
 ```bash
 git clone https://github.com/AgustinGibaut/calorias_console.git
 cd calorias_console
+
+```bash
+pip install -r requirements.txt
+
+instala todas las dependencias.
